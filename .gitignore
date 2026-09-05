@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local / scratch outputs (keep checked-in paper checkpoints under save/)
+*.log
+tmp/
+temp/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Torch / training scratch (do not ignore packaged all.pkl checkpoints)
+**/states/
+**/tmp.pkl
