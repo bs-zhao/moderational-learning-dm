@@ -5,7 +5,7 @@ Code and materials accompanying:
 > Zhao, B., Radev, S. T., Sokratous, K., & Kvam, P. D.  
 > *Moderational Learning: A Framework for Discovering Models and Individual Differences from Behavioral Data*
 
-Preprint: https://osf.io/preprints/psyarxiv/b865r
+Preprint: https://osf.io/preprints/psyarxiv/b865r  
 OSF project: https://osf.io/jyw5u/
 
 ## Repository layout
